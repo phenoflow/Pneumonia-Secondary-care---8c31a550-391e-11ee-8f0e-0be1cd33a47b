@@ -1,0 +1,183 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/pneumonia---secondary.py
+inputModule3:
+  class: File
+  path: python/pneumonia-secondary-care-bacteria---secondary.py
+inputModule4:
+  class: File
+  path: python/pneumonia-secondary-care-chlamydophila---secondary.py
+inputModule5:
+  class: File
+  path: python/pneumonia-secondary-care-escherichia---secondary.py
+inputModule6:
+  class: File
+  path: python/pneumonia-secondary-care-influenzae---secondary.py
+inputModule7:
+  class: File
+  path: python/pneumonia-secondary-care-klebsiella---secondary.py
+inputModule8:
+  class: File
+  path: python/pneumonia-secondary-care-mycoplasma---secondary.py
+inputModule9:
+  class: File
+  path: python/pneumonia-secondary-care-aeruginosa---secondary.py
+inputModule10:
+  class: File
+  path: python/pneumonia-secondary-care-staphylococcu---secondary.py
+inputModule11:
+  class: File
+  path: python/pneumonia-secondary-care-streptococcu---secondary.py
+inputModule12:
+  class: File
+  path: python/betahaemolytic-pneumonia-secondary-care---secondary.py
+inputModule13:
+  class: File
+  path: python/viral-pneumonia-secondary-care---secondary.py
+inputModule14:
+  class: File
+  path: python/pneumonia-secondary-care-adenovirus---secondary.py
+inputModule15:
+  class: File
+  path: python/pneumonia-secondary-care-metapneumovirus---secondary.py
+inputModule16:
+  class: File
+  path: python/pneumonia-secondary-care-fungal---secondary.py
+inputModule17:
+  class: File
+  path: python/pneumonia-secondary-care-organism---secondary.py
+inputModule18:
+  class: File
+  path: python/pneumonia-secondary-care-plague---secondary.py
+inputModule19:
+  class: File
+  path: python/pneumonia-secondary-care-tularaemia---secondary.py
+inputModule20:
+  class: File
+  path: python/pneumonia-secondary-care-anthrax---secondary.py
+inputModule21:
+  class: File
+  path: python/pneumonia-secondary-care-actinomycosis---secondary.py
+inputModule22:
+  class: File
+  path: python/pneumonia-secondary-care-nocardiosis---secondary.py
+inputModule23:
+  class: File
+  path: python/pneumonia-secondary-care-legionnaire---secondary.py
+inputModule24:
+  class: File
+  path: python/pneumonia-secondary-care-fever---secondary.py
+inputModule25:
+  class: File
+  path: python/pneumonia-secondary-care-varicella---secondary.py
+inputModule26:
+  class: File
+  path: python/pneumonia-secondary-care-complicated---secondary.py
+inputModule27:
+  class: File
+  path: python/cytomegaloviral-pneumonia-secondary-care---secondary.py
+inputModule28:
+  class: File
+  path: python/pneumonia-secondary-care-candidiasis---secondary.py
+inputModule29:
+  class: File
+  path: python/pneumonia-secondary-care-toxoplasmosis---secondary.py
+inputModule30:
+  class: File
+  path: python/pneumonia-secondary-care-pneumocystosis---secondary.py
+inputModule31:
+  class: File
+  path: python/pneumonia-secondary-care-granulosus---secondary.py
+inputModule32:
+  class: File
+  path: python/adenoviral-pneumonia-secondary-care---secondary.py
+inputModule33:
+  class: File
+  path: python/pneumonia-secondary-care-specified---secondary.py
+inputModule34:
+  class: File
+  path: python/pneumonia-secondary-care-streptococci---secondary.py
+inputModule35:
+  class: File
+  path: python/pneumonia-secondary-care-pseudomona---secondary.py
+inputModule36:
+  class: File
+  path: python/infectious-pneumonia-secondary-care---secondary.py
+inputModule37:
+  class: File
+  path: python/chlamydial-pneumonia-secondary-care---secondary.py
+inputModule38:
+  class: File
+  path: python/pneumonia-secondary-care-classified---secondary.py
+inputModule39:
+  class: File
+  path: python/pneumonia-secondary-care-mycoses---secondary.py
+inputModule40:
+  class: File
+  path: python/parasitic-pneumonia-secondary-care---secondary.py
+inputModule41:
+  class: File
+  path: python/pneumonia-secondary-care-lobar---secondary.py
+inputModule42:
+  class: File
+  path: python/hypostatic-pneumonia-secondary-care---secondary.py
+inputModule43:
+  class: File
+  path: python/pneumonia-secondary-care-bronchiolitis---secondary.py
+inputModule44:
+  class: File
+  path: python/lower-pneumonia-secondary-care---secondary.py
+inputModule45:
+  class: File
+  path: python/pneumonia-secondary-care---secondary.py
+inputModule46:
+  class: File
+  path: python/pneumonia-secondary-care-abscess---secondary.py
+inputModule47:
+  class: File
+  path: python/pneumonia-secondary-care-histoplasmosis---secondary.py
+inputModule48:
+  class: File
+  path: python/pneumonia-secondary-care-unspecified---secondary.py
+inputModule49:
+  class: File
+  path: python/unknown-pneumonia-secondary-care---secondary.py
+inputModule50:
+  class: File
+  path: python/pneumonia-secondary-care-micro---secondary.py
+inputModule51:
+  class: File
+  path: python/other-pneumonia-secondary-care---secondary.py
+inputModule52:
+  class: File
+  path: python/pneumonia-secondary-care-pneumothorax---secondary.py
+inputModule53:
+  class: File
+  path: python/bacterial-pneumonia-secondary-care---secondary.py
+inputModule54:
+  class: File
+  path: python/pneumonia-secondary-care-coronavirus---secondary.py
+inputModule55:
+  class: File
+  path: python/pneumonia-secondary-care-influenza---secondary.py
+inputModule56:
+  class: File
+  path: python/pneumococcal-pneumonia-secondary-care---secondary.py
+inputModule57:
+  class: File
+  path: python/pneumonia-secondary-care-ornithosis---secondary.py
+inputModule58:
+  class: File
+  path: python/pneumonia-secondary-care-group---secondary.py
+inputModule59:
+  class: File
+  path: python/pneumonia-secondary-care-ecoli---secondary.py
+inputModule60:
+  class: File
+  path: python/pneumonia-secondary-care-chlamydia---secondary.py
+inputModule61:
+  class: File
+  path: python/output-cases.py
